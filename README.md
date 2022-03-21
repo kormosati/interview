@@ -1,6 +1,3 @@
-
-# Heitec interview questions
-
 ## OOP
 
 > Languages or concepts which support Encapsulation, Abstraction,Inheritance and Poly are object oriented.
